@@ -32,3 +32,7 @@ body {
 #template-laughingbear > .menu > .mainTitle {
 	font-size: 2.0em;
 }
+
+#template-laughingbear > .copyright {
+	text-align: right;
+}
