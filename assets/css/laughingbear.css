@@ -36,3 +36,18 @@ body {
 #template-laughingbear > .copyright {
 	text-align: right;
 }
+
+#template-laughingbear > .about > .aboutIcon {
+	text-align: center;
+}
+#template-laughingbear > .about > .aboutIcon > img {
+	width: 100%;
+	height: auto;
+	max-width: 400px;
+}
+#template-laughingbear > .about > .aboutText > h1 {
+	margin: 0;
+}
+
+
+

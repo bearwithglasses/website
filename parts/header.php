@@ -27,6 +27,8 @@
 	<link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
 	<link href="assets/css/laughingbear.css" rel="stylesheet">
 	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	
 </head>
 <body>
 
