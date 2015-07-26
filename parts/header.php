@@ -27,3 +27,7 @@
 	
 </head>
 <body>
+
+<div class="container">
+<div class="template-laughingbear">
+<?php include('parts/menu.php'); ?>
