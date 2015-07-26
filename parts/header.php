@@ -24,11 +24,12 @@
 	</title>
 	
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
 	<link href="assets/css/laughingbear.css" rel="stylesheet">
 	
 </head>
 <body>
 
 <div class="container">
-<div class="template-laughingbear">
+<div id="template-laughingbear">
 <?php include('parts/menu.php'); ?>

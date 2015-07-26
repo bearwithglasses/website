@@ -2,6 +2,7 @@ body {
 	background-image: url('../../assets/img/bg.png');
 	background-attachment: fixed;
 	margin: 20px;
+	font-family: Verdana, Geneva, sans-serif;
 }
 
 .container {
@@ -13,4 +14,21 @@ body {
 	-o-border-radius: 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
+}
+
+#template-laughingbear {
+	
+}
+
+#template-laughingbear > .menu {
+	font-family: 'Nunito', sans-serif;
+	font-size: 1.5em;
+}
+
+#template-laughingbear > .menu > div {
+	text-align: center;
+}
+
+#template-laughingbear > .menu > .mainTitle {
+	font-size: 2.0em;
 }
